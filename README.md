@@ -3,7 +3,6 @@
 The retirement landscape is ever changing for employees and employers alike. In some cases, employees decide to take early retirement or continue to work even though they are eligible to retire. It is crucial for employers to identify the needed skillset for their current and future workforce, by effectively monitoring positions affected by employee turnover and retirement. Pewlett Hackard is a large company which is facing thousands of possible job openings, due to the number of expected upcoming retirements. The purpose of this analysis is to determine the number of retiring employees per title and identify employees who are eligible to participate in a mentorship program. An employee database will be built with SQL by applying data modeling, engineering and analysis skills.
 
 ### Resources Utilized to Complete Analysis
-* **Data Sources:** departments.csv, dept_emp.csv, dept_manager.csv, employees.csv, salaries.csv, titles.csv
 
 * **Entity Relationship Diagram (ERD) Tool:** Quick Database Diagrams
 
