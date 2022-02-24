@@ -21,7 +21,7 @@ This ERD highlights the flow of information from one table, or CSV file, to anot
 
 ![](Resources/retiring_titles.png)
 
-Expected Retirees by Department: Of the employees likely to retire soon, the majority of them work in the Development Department, followed by Production, Sales, Customer Service, Research, Quality Management, Marketing, Human Resources and Finance Departments.
+* **Expected Retirees by Department:** Of the employees likely to retire soon, the majority of them work in the Development Department, followed by Production, Sales, Customer Service, Research, Quality Management, Marketing, Human Resources and Finance Departments.
 
 * **Employees Eligible to Participate in Mentorship Program:** A total of 1,549 employees are eligible to participate in Pewlett Hackard’s mentorship program established to promote knowledge transfer and collaboration. The mentor-mentee ratio will on average be 1:59.
 
